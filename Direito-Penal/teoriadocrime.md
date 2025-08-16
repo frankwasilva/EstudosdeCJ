@@ -2,10 +2,13 @@
 ### I. Erro de Tipo Acidental
 
 ### I. Erro sobre o Objeto
+
+1.  **Erro Sobre o Objeto**
     * **Conceito**: O agente confunde o objeto material que pretendia atingir, atingindo um **objeto diverso**.
-    * **Condição**: Só se configura se a confusão **não alterar a natureza do crime**. Se alterar, é erro de tipo essencial.
+    * * **Condição**: Só se configura se a confusão **não alterar a natureza do crime**. Se alterar, é erro de tipo essencial.
     * **Consequências**: Não exclui dolo nem culpa. O agente responde pelo crime praticado em relação ao objeto efetivamente atingido.
     * **Exemplo**: Subtrair açúcar pensando ser sal (crime de furto permanece).
+    
 
 ### II. Erro na Execução
 
