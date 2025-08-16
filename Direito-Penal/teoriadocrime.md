@@ -32,11 +32,6 @@ Também pode ser analisado com as regras do concurso de crimes.
 👉 Dica mnemônica: Criminis = crime diferente.
 ##### Erro sobre o nexo causal (aberratio causae ou dolo geral)
 
-
-
------
-
-
 Erro na Execução
 1. Aberratio Ictus (Erro na execução)
 Conceito: O agente, por acidente ou erro no uso dos meios de execução, atinge uma pessoa diversa da pretendida.
