@@ -23,6 +23,8 @@
     * **Problema**: É possível aplicar o concurso material em vez do concurso formal na _aberratio ictus_ e _aberratio criminis_?
     * **Posicionamento Doutrinário**: **Sim**. A regra do concurso formal deve ser afastada se o concurso material for **mais favorável** ao réu.
     * **Exemplo**: A quer matar B, mas o tiro atinge B e lesiona C. Se a soma das penas do homicídio e da lesão (concurso material) for menor que a pena do homicídio aumentada (concurso formal), o concurso material deve ser aplicado.
+  
+    * Q3117543
 
 ### III. Erro no Nexo Causal
 
