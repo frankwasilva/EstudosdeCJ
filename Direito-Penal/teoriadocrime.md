@@ -33,6 +33,8 @@
     * **Consequência**: O dolo inicial de matar não é afastado. O agente responde pelo crime considerando o nexo causal que **realmente ocorreu**.
   
 ### IV. Resultado Diverso do Pretendido (Aberratio Delicti ou Aberratio Criminis)
+
+1.  **Resultado Diverso do Pretendido**
     * **Conceito**: O agente, por erro na execução, atinge um **bem jurídico distinto** do pretendido (ex: quer atingir uma pessoa, mas acerta uma coisa, ou vice-versa).
     * **Fundamento Legal**: Art. 74 do Código Penal.
     * **Consequências**: O agente responde pelo resultado diverso a **título de culpa** (se o crime for previsto nessa modalidade).
