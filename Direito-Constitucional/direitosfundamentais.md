@@ -65,3 +65,50 @@
     * A CF prevê a suspensão temporária de direitos em situações graves.
     * **Estado de Defesa**: Restrições menores (ex: reunião, sigilo de correspondência).
     * **Estado de Sítio**: Restrições mais amplas, podendo suspender quaisquer direitos.
+
+
+**As associações precisam de autorização específica de seus filiados para o ajuizamento de ações em defesa
+destes?**
+| Tipo de ação                                                      | Precisa de autorização específica? | Motivo                                 |
+| ----------------------------------------------------------------- | ---------------------------------- | -------------------------------------- |
+| Ações coletivas ordinárias                                        | **SIM**                            | Atua como **representante processual** |
+| Ação Civil Pública (direitos coletivos ou individuais homogêneos) | **NÃO**                            | Atua como **substituto processual**    |
+| Mandado de Segurança Coletivo                                     | **NÃO**, exceto associações genéricas, que não representam categoria econômica/profissional específica                            | Atua como **substituto processual**    |
+
+
+**Mandado de Injunção**
+
+Não é qualquer ausência de norma regulamentadora que autoriza o uso de mandado de injunção, mas apenas
+as que inviabilizem o exercício de:
+- direito e liberdades constitucionais;
+- prerrogativas inerentes à nacionalidade, soberania e cidadania. 
+
+
+
+**Ação Popular**
+
+| **Objeto da Ação Popular**                       |
+| ------------------------------------------------ |
+| Patrimônio Público                               |
+| Patrimônio de entidade de que o Estado participe |
+| Moralidade Administrativa                        |
+| Patrimônio Histórico-Cultural                    |
+| Meio Ambiente                                    |
+
+
+
+
+*Tipo de tratado ou convenção*
+
+
+| Tipo de tratado ou convenção                                                                                   | Forma de aprovação | Status no ordenamento jurídico      |
+| -------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
+| Tratados sobre Direitos Humanos (aprovação em 2 turnos, em cada Casa do Congresso Nacional, por 3/5 dos votos) | Rito qualificado   | **Status de Emenda Constitucional** |
+| Tratados sobre Direitos Humanos (aprovação pelo rito ordinário)                                                | Rito ordinário     | **Status supralegal**               |
+| Tratados que não versem sobre Direitos Humanos                                                                 | Rito ordinário     | **Status legal**                    |
+
+
+
+
+Direito fundamental heterotópico é aquele que não está no núcleo tradicional dos direitos fundamentais (arts. 5º a 17 da CF), mas que, pela sua importância, se conecta diretamente à dignidade da pessoa humana e deve receber a mesma proteção.
+
